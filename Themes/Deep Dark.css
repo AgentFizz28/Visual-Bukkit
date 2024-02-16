@@ -1,0 +1,74 @@
+/*Created by OneDayDone*/
+
+@import "/css/default.css";
+
+.block .ikonli-font-icon {
+   -fx-icon-color: black;
+}
+
+.block .list-view .ikonli-font-icon {
+   -fx-icon-color: white;
+}
+
+.ikonli-font-icon {
+    -fx-icon-color: white;
+}
+
+.popover .list-cell .label {
+    -fx-text-fill: white;
+}
+
+.project-pane > .button-bar {
+    -fx-background-color: rgb(25, 25, 25);
+    -fx-border-width: 1 0 0 0;
+}
+
+
+.project-pane .button {
+    -fx-background-color: rgb(54, 54, 54);
+}
+
+.root {
+    -fx-accent: rgb(63, 81, 181);
+    -fx-background: rgb(30, 30, 30);
+    -fx-base: rgb(25, 25, 25);
+    -fx-color: rgb(65, 65, 65);
+    -fx-control-inner-background: rgb(25, 25, 25);
+    -fx-control-inner-background-alt: rgb(30, 30, 30);
+    -fx-default-button: rgb(65, 65, 65);
+    -fx-light-text-color: rgb(255, 255, 255);
+}
+
+.statement-source .ikonli-font-icon {
+    -fx-icon-color: black;
+}
+
+.text-field {
+    -fx-prompt-text-fill: rgb(168, 168, 168);
+}
+
+.menu-bar{
+    -fx-background-color: rgb(25,25,25);
+    -fx-border-color: rgb(40, 40, 40);
+}
+
+.statement-selector{
+    -fx-background-color: rgb(34, 34, 34);
+}
+.statement-selector .text-field{
+    -fx-background-color: rgb(55, 55, 55);
+}
+
+.block .text-field {
+    -fx-control-inner-background: rgb(208, 208, 208);
+}
+
+
+.tab-pane > .tab-header-area > .tab-header-background{
+    -fx-background-color: rgb(34, 34, 34)
+}
+
+.statement-selector .list-cell {
+    -fx-background-color: transparent;
+    -fx-padding: 0 1em 0.65em 1em;
+}
