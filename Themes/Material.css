@@ -72,10 +72,6 @@
     -fx-background-color: rgba(33,35,50,255);
 }
 
-.plugin-component-pane {
-    -fx-control-inner-background: black;
-}
-
 .statement-selector .list-cell {
     -fx-background-color: transparent;
     -fx-padding: 0 1em 0.65em 1em;
