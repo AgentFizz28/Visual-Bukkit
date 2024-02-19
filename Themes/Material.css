@@ -1,0 +1,85 @@
+@import "/css/default.css";
+
+.block .ikonli-font-icon {
+   -fx-icon-color: black;
+}
+
+.block .list-view .ikonli-font-icon {
+   -fx-icon-color: white;
+}
+
+.ikonli-font-icon {
+    -fx-icon-color: white;
+}
+
+.popover .list-cell .label {
+    -fx-text-fill: white;
+}
+
+.project-pane > .button-bar {
+    -fx-background-color: rgba(41,45,62,255);
+    -fx-border-width: 1 0 0 0;
+}
+
+
+.project-pane .button {
+    -fx-background-color: rgba(33,35,50,255);
+}
+
+
+
+.root {
+    -fx-accent: rgb(26, 86, 206);
+    -fx-base: #272727;
+    -fx-color: rgb(65, 65, 65);
+    -fx-control-inner-background: rgb(34, 34, 34);
+    -fx-background: rgb(41, 41, 41);
+    -fx-control-inner-background-alt: #2c2c2c;
+    -fx-default-button: rgb(49, 48, 48);
+    -fx-light-text-color: rgb(255, 255, 255);
+}
+
+.statement-source .ikonli-font-icon {
+    -fx-icon-color: black;
+}
+
+.text-field {
+    -fx-prompt-text-fill: rgb(255, 255, 255);
+}
+
+.menu-bar{
+    -fx-background-color: #161721;
+    -fx-border-color: rgb(40, 40, 40);
+}
+
+.statement-selector{
+    -fx-background-color: rgba(33,35,50,255);
+}
+.statement-selector .text-field{
+    -fx-background-color: rgb(0, 0, 0);
+}
+
+.statement-selector > .scroll-pane {
+    -fx-background-color: #212332;
+}
+
+.block .text-field {
+    -fx-control-inner-background: rgb(255, 255, 255);
+}
+
+.tab-pane > .tab-header-area > .tab-header-background{
+    -fx-background-color: rgba(33,35,50,255);
+}
+
+.plugin-component-pane {
+    -fx-control-inner-background: black;
+}
+
+.statement-selector .list-cell {
+    -fx-background-color: transparent;
+    -fx-padding: 0 1em 0.65em 1em;
+}
+
+.plugin-component-pane {
+    -fx-background: rgba(35,40,62,255);
+}
